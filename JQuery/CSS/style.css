@@ -1,0 +1,41 @@
+/* Manipulando CSS via JQuery.
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,body{
+	height: 100%;
+}
+
+.artigo1{
+	width: 100%;
+	padding: 30px;
+	background: rgb(210,210,210);
+}
+*/
+
+
+
+/ Introduzindo os eventos.
+
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,body{
+	height: 100%;
+}
+
+.artigo1{
+	background: rgb(210,210,210);
+}
+
+.artigo2{
+	background: rgb(100,100,100);
+	margin-top: 190px;
+}
+
